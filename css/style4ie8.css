@@ -1,0 +1,8 @@
+html,body{min-width: 1364px;}
+.g-hd .g-wrap,.g-bd .g-wrap,.g-bd2 .g-wrap,.g-ft .g-wrap,.m-tips .g-wrap{width: 963px;margin: 0 auto;}
+.g-bd2 .g-main{width: 735px;}
+.m-slide,.m-show .g-wrap{width: 1364px;}
+.m-list{height: 1240px;overflow: hidden;}
+.m-content .m-info{width: 272px;}
+.m-content .m-info+.m-info{margin-left: 70px;}
+.m-content .m-info div{width: 172px;}
